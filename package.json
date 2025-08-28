@@ -1,7 +1,8 @@
+
 {
-  "name": "nodejs-test-app",
+  "name": "hello-openshift",
   "version": "1.0.0",
-  "description": "Simple Node.js test application",
+  "description": "Simple Hello World app for OpenShift",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
